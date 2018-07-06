@@ -1,0 +1,14 @@
+person:
+  last-name: 黄瓜
+  cars:
+    brank: baoma
+    price: 200000
+  daughters: {name: lili}
+  boss: true
+  list:
+    - pet
+    - money
+
+
+
+
